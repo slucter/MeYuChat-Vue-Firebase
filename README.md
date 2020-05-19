@@ -28,16 +28,16 @@
 ## Screenshot
 <div class="demo">
     <div class="items">
-    	<h4 class="title-demo">Landing Page</h4>
-	<img class="img-demo" src="https://github.com/m-joseph27/Firebase-with-Vuejs/blob/master/src/Screenshot/landing-page.png">   
+    	<h4 class="title-demo">Dashboard Page</h4>
+	<img class="img-demo" src="https://github.com/slucter/MeYuChat-Vue-Firebase/blob/master/src/screenshoot/dashbiardmiyu.png">   
     </div>
     <div class="items">
-    	<h4 class="title-demo">Login</h4>
-		<img class="img-demo" src="https://github.com/m-joseph27/Firebase-with-Vuejs/blob/master/src/Screenshot/login.png">  
+    	<h4 class="title-demo">Chat Page</h4>
+		<img class="img-demo" src="https://github.com/slucter/MeYuChat-Vue-Firebase/blob/master/src/screenshoot/chat.png">  
     </div>
     <div class="items">
-    	<h4 class="title-demo">Home Page</h4>
-		<img class="img-demo" src="https://github.com/m-joseph27/Firebase-with-Vuejs/blob/master/src/Screenshot/home-page.png">  
+    	<h4 class="title-demo">Add friend Page</h4>
+		<img class="img-demo" src="https://github.com/slucter/MeYuChat-Vue-Firebase/blob/master/src/screenshoot/add.png">  
     </div>
     <div class="items">
     	<h4 class="title-demo">Contact Info</h4>
