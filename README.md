@@ -1,4 +1,4 @@
-<h1 align="center">Alphabet.id</h1>
+<h1 align="center">MeYu Chat V1</h1>
 <p align="left">
   Build with Vue.js and Realtime Database Firebase
 </p>
@@ -39,9 +39,5 @@
     	<h4 class="title-demo">Add friend Page</h4>
 		<img class="img-demo" src="https://github.com/slucter/MeYuChat-Vue-Firebase/blob/master/src/screenshoot/add.png">  
     </div>
-    <div class="items">
-    	<h4 class="title-demo">Contact Info</h4>
-		<img class="img-demo" src="https://github.com/m-joseph27/Firebase-with-Vuejs/blob/master/src/Screenshot/contact-info.png">  
-    </div>
-</div>
+    
 </section>
